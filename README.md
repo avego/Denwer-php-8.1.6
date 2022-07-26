@@ -1,4 +1,4 @@
-<h2>Денвер (Denwer)</h2>
+<h2>Денвер (Denwer) php 8</h2>
 
 <p>Denwer php 8.1.16 + mysql 5.7.15 + apache 2.4.53</p>
 
