@@ -14,4 +14,4 @@
   <li>Вся система переведена на работу в кодировке UTF-8</li>
 </ul>
 
-<p><a href="https://seditio.org/code/Denwer8.1.zip">Скачать Denwer8.1.zip</a></p>
+<p><a href="https://seditio.org/dev/denwer-php-8-1-16-plus-mysql-5-7-15-plus-apache-2-4-53">Скачать Denwer8.1.zip</a></p>
