@@ -1,3 +1,5 @@
+<h1>Denwer SE — локальный веб-стек для Windows (Apache, PHP /7.1-8.5/, MySQL 5.7 / MariaDB 11.8.6)</h1>
+
 <p><em>Неофициальная сборка для сообщества, с панелью Denwer SE (Denwer Second Edition).</em></p>
 <p>Denwer SE — это обновлённый комплект Denwer для локальной разработки под Windows: Apache, PHP (несколько версий в одной установке), MySQL и/или MariaDB, вспомогательные утилиты и универсальная панель запуска DenwerSE (исполняемый файл DenwerSE.exe). Сборка неофициальная; её можно свободно использовать в личных и рабочих целях на свой страх и риск, как и предыдущие публикации команды Seditio.</p>
 <p><img height="657" src="https://seditio.org/datas/users/1-1777030295f8b-image.png" width="656"></p>
