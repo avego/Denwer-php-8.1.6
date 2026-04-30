@@ -1,4 +1,4 @@
-<h1>Denwer SE — локальный веб-стек для Windows (Apache, PHP /7.1-8.5/, MySQL 5.7 / MariaDB 11.8.6)</h1>
+<h1>Denwer SE — локальный веб-стек для Windows (Apache, PHP /5.6-8.5/, MySQL 5.7 / MariaDB 11.8.6)</h1>
 
 <p><em>Неофициальная сборка для сообщества, с панелью Denwer SE (Denwer Second Edition).</em></p>
 <p>Denwer SE — это обновлённый комплект Denwer для локальной разработки под Windows: Apache, PHP (несколько версий в одной установке), MySQL и/или MariaDB, вспомогательные утилиты и универсальная панель запуска DenwerSE (исполняемый файл DenwerSE.exe). Сборка неофициальная; её можно свободно использовать в личных и рабочих целях на свой страх и риск, как и предыдущие публикации команды Seditio.</p>
@@ -13,7 +13,7 @@
     <p><strong>Apache 2.4.58</strong>&nbsp;(Win64, сборка Apache Lounge).</p>
   </li>
   <li>
-    <p><strong>PHP</strong>&nbsp;— в комплекте версии&nbsp;<span style="color:#e74c3c;"><strong>7.1, 7.4, 8.1, 8.3, 8.4, 8.5</strong></span>; по умолчанию в конфиге выставлена PHP 8.3.30</p>
+    <p><strong>PHP</strong>&nbsp;— в комплекте версии&nbsp;<span style="color:#e74c3c;"><strong>5.6, 7.1, 7.4, 8.1, 8.3, 8.4, 8.5</strong></span>; по умолчанию в конфиге выставлена PHP 8.3.30</p>
   </li>
   <li>
     <p><strong>СУБД</strong>: <span style="color:#e74c3c;"><strong>MySQL 5.7</strong></span> и <span style="color:#e74c3c;"><strong>MariaDB 11.8.6</strong></span> (оба присутствуют в&nbsp;usr\local\db\; активный вариант задаётся в&nbsp;configuration.txt; по умолчанию в репозитории указан MySQL 5.7).</p>
@@ -45,5 +45,5 @@
     <p>Достаточно места на диске под архив и распакованный стек.</p>
   </li>
 </ul>
-<h2><a href="https://seditio.org/dev/denwer-se-lokalnyj-veb-stek-dlya-windows-apache-php-mysql-mariadb/download">Скачать Denwer SE 1.2.0</a></h2>
+<h2><a href="https://seditio.org/dev/denwer-se-lokalnyj-veb-stek-dlya-windows-apache-php-mysql-mariadb/download">Скачать Denwer SE 1.2.4</a></h2>
 
