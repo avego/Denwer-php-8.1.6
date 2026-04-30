@@ -2,7 +2,7 @@
 
 <p><em>Неофициальная сборка для сообщества, с панелью Denwer SE (Denwer Second Edition).</em></p>
 <p>Denwer SE — это обновлённый комплект Denwer для локальной разработки под Windows: Apache, PHP (несколько версий в одной установке), MySQL и/или MariaDB, вспомогательные утилиты и универсальная панель запуска DenwerSE (исполняемый файл DenwerSE.exe). Сборка неофициальная; её можно свободно использовать в личных и рабочих целях на свой страх и риск, как и предыдущие публикации команды Seditio.</p>
-<p><img height="657" src="https://seditio.org/datas/users/1-1777030295f8b-image.png" width="656"></p>
+<p><img height="657" src="https://seditio.org/datas/users/1-1777534157df5-image.png" width="656"></p>
 <hr>
 <h3>Что в этой сборке</h3>
 <ul>
